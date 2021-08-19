@@ -7,7 +7,7 @@ html {
   background-repeat: no-repeat;
   height: 100%;
   line-height: 1.5;
-  overflow-x: hidden;
+  overflow: hidden;
   overflow-y: scroll;
   box-sizing: border-box;
   color: rgb(74, 171, 201);
@@ -22,7 +22,6 @@ body {
   -webkit-touch-callout: none;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  overflow: hidden;
 }
 
 .section {
